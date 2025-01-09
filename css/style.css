@@ -1,0 +1,18 @@
+:root {
+    --cor-primaria: #6768ff;
+}
+
+.custom-input:focus {
+    box-shadow: none;
+    outline: none;
+    border-color: white;
+}
+
+.canvas-card, .imagem-card {
+    height: 25rem !important; 
+    object-fit: scale-down;
+}
+
+.card-produto {
+    cursor: pointer;
+}
